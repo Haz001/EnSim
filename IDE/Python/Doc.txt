@@ -1,0 +1,5 @@
+13:22 23/02/2018:
+Made basic class in Functions
+Added Console.Show() and Console.Write.Line() functions
+Started interpriter
+Made needed files

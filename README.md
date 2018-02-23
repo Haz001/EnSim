@@ -1,6 +1,6 @@
 # EnSim
 #### A simple, English, beginner friendly programming language and a corosponding web ide and some other things with it.
-##Links
+## Links
 <a href="https://haz001.github.io/EnSim/documentation.html">documentation</a>
 ## Questions
 ### What is it?

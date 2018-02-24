@@ -3,8 +3,14 @@
 ## Links
 <a href="https://haz001.github.io/EnSim/Documentation.html">documentation</a>
 ## Questions
+### Who?
+<a >Me</a> and <a href="https://github.com/DoxingMethod">DoxingMethod</a>
+Me - GCSE Computer Science|DoxingMethod - BTEC Lvl 2 IT
+
 ### What is it?
 It is a programming language that will be very simple for beginners but can be picked up by anyone from any other languages as well.
+### What does the name stand for?
+English Simple as it is going to be simple, very simple.
 ### Why?
 Why not.
 ### Where?
@@ -12,4 +18,5 @@ Why not.
 ### When?
 IDK
 ### How?
-<a>Me</a> and <a href="https://github.com/DoxingMethod">DoxingMethod</a>
+I have never done this before so it is just a lot of guessing and <a >talking to rubber ducks</a>
+

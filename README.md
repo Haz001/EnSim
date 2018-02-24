@@ -18,5 +18,5 @@ Why not.
 ### When?
 IDK
 ### How?
-I have never done this before so it is just a lot of guessing and <a >talking to rubber ducks</a>
+I have never done this before so it is just a lot of guessing and <a href="https://rubberduckdebugging.com/">talking to rubber ducks</a>
 

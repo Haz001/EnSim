@@ -8,3 +8,9 @@ Made interpriter tagger
 made function executer
 2 functions added to interpriter
 got 2 diffent lines of code to run
+10:49 05/03/2018:
+made shell able to send to interprit
+making preperations for varibles
+making ide search for files
+*.es set as file type
+started ide

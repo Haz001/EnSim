@@ -20,3 +20,28 @@ IDK
 ### How?
 I have never done this before so it is just a lot of guessing and <a href="https://rubberduckdebugging.com/">talking to rubber ducks</a>
 
+## Plan
+<ul>
+  <li>
+    Make EnSim in python
+  </li>
+  <li>
+    Make EnSim in javascript
+  </li>
+  <li>
+    Make EnSim in c#
+  </li>
+  
+  <li>
+    Make EnSim in EnSim
+  </li>
+  
+  <li>
+    Advance EnSim and add alsorts to it
+  </li>
+  
+  <li>
+    Make EnSim in other languages like Batch, VB, VBScript, VBA, Java, F#, Objective-C, C, C++, Assembly, Ruby and more.
+  </li>
+</ul>
+

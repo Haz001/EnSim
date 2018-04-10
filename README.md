@@ -4,7 +4,7 @@
 <a href="https://haz001.github.io/EnSim/Documentation.html">documentation</a>
 ## Questions
 ### Who?
-<a >Me</a> and <a href="https://github.com/DoxingMethod">DoxingMethod</a>
+<a href="https://github.com/Haz001">Me</a> and <a href="https://github.com/DoxingMethod">DoxingMethod</a>
 Me - GCSE Computer Science|DoxingMethod - BTEC Lvl 2 IT
 
 ### What is it?
@@ -24,6 +24,7 @@ I have never done this before so it is just a lot of guessing and <a href="https
 <ul>
   <li>
     Make EnSim in python
+    
   </li>
   <li>
     Make EnSim in javascript
@@ -44,4 +45,10 @@ I have never done this before so it is just a lot of guessing and <a href="https
     Make EnSim in other languages like Batch, VB, VBScript, VBA, Java, F#, Objective-C, C, C++, Assembly, Ruby and more.
   </li>
 </ul>
+
+## Progress
+
+Our progress is >1%.<br/>
+We have a lot to go.
+
 

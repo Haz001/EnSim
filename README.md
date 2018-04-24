@@ -48,7 +48,7 @@ I have never done this before so it is just a lot of guessing and <a href="https
 
 ## Progress
 
-Our progress is >1%.<br/>
+Our progress is <1%.<br/>
 We have a lot to go.
 
 
